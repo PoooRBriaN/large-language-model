@@ -1,0 +1,23 @@
+.SearchBar-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+textarea {
+  margin: 10px 0;
+  padding: 10px;
+  width: 300px;
+  height: 100px;
+}
+
+/* button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+} */
